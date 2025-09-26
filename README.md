@@ -1,9 +1,7 @@
-> 💡 **Tip:** The most efficient way to get MMG Vocabulary is to use the **direct download links below**. Cloning or downloading the entire repo as a ZIP is *not necessary*.  
-
 # <img src="./images/Logo@0.5x.png" alt="CDC logo" width="60" align="absmiddle">  PHIN VADS Download
 
 This is a temporary location for PHIN VADS content while it undergoes maintenance. In the meantime, partners can download ZIP files containing vocabulary in Excel format. 
-
+> 💡 **Tip:** The most efficient way to get MMG Vocabulary is to use the **direct download links below**. Cloning or downloading the entire repo as a ZIP is *not necessary*.  
 Below are the downloads for case notification (MMG) vocabulary files:
 
 > 📦 [Congenital-Syphilis-Case-Notification-MMG-v1_Vocab-v11_01-12-2024.zip](../../raw/master/MMG/Congenital-Syphilis-Case-Notification-MMG-v1_Vocab-v11_01-12-2024.zip)  
