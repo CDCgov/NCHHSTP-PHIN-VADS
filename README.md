@@ -4,11 +4,11 @@ This is a temporary location for PHIN VADS content while it undergoes maintenanc
 
 Below are the downloads for case notification (MMG) vocabulary files:
 
-- [📦 Congenital-Syphilis-Case-Notification-MMG-v1_Vocab-v11_01-12-2024.zip](https://github.com/CDCgov/NCHHSTP-PHIN-VADS/raw/mster/MMG/Congenital-Syphilis-Case-Notification-MMG-v1_Vocab-v11_01-12-2024.zip)
-- [📦 Generic-Case-Notificatiion-MMG-v2_Vocab-v16_01-08-2021.zip](https://github.com/CDCgov/NCHHSTP-PHIN-VADS/raw/mster/MMG/Generic-Case-Notificatiion-MMG-v2_Vocab-v16_01-08-2021.zip)
-- [📦 Hepatitis-Case-Notification-MMG-v1_Vocab-v7_03-28-2024.zip](https://github.com/CDCgov/NCHHSTP-PHIN-VADS/raw/master/MMG/Hepatitis-Case-Notification-MMG-v1_Vocab-v7_03-28-2024.zip)
-- [📦 STD-Case-Notification-MMG-v1_Vocab-v1_01-31-2025.zip](https://github.com/CDCgov/NCHHSTP-PHIN-VADS/raw/master/MMG/STD-Case-Notification-MMG-v1_Vocab-v1_01-31-2025.zip)
-- [📦 Tuberculosis-LTBI-Case-Notification-MMG-v3_Vocab-v7_06-14-2022.zip](https://github.com/CDCgov/NCHHSTP-PHIN-VADS/raw/master/MMG/Tuberculosis-LTBI-Case-Notification-MMG-v3_Vocab-v7_06-14-2022.zip)
+- 📦 [Congenital-Syphilis-Case-Notification-MMG-v1_Vocab-v11_01-12-2024.zip](https://github.com/CDCgov/NCHHSTP-PHIN-VADS/raw/mster/MMG/Congenital-Syphilis-Case-Notification-MMG-v1_Vocab-v11_01-12-2024.zip)
+- 📦 [Generic-Case-Notificatiion-MMG-v2_Vocab-v16_01-08-2021.zip](https://github.com/CDCgov/NCHHSTP-PHIN-VADS/raw/mster/MMG/Generic-Case-Notificatiion-MMG-v2_Vocab-v16_01-08-2021.zip)
+- 📦 [Hepatitis-Case-Notification-MMG-v1_Vocab-v7_03-28-2024.zip](https://github.com/CDCgov/NCHHSTP-PHIN-VADS/raw/master/MMG/Hepatitis-Case-Notification-MMG-v1_Vocab-v7_03-28-2024.zip)
+- 📦 [STD-Case-Notification-MMG-v1_Vocab-v1_01-31-2025.zip](https://github.com/CDCgov/NCHHSTP-PHIN-VADS/raw/master/MMG/STD-Case-Notification-MMG-v1_Vocab-v1_01-31-2025.zip)
+- 📦 [Tuberculosis-LTBI-Case-Notification-MMG-v3_Vocab-v7_06-14-2022.zip](https://github.com/CDCgov/NCHHSTP-PHIN-VADS/raw/master/MMG/Tuberculosis-LTBI-Case-Notification-MMG-v3_Vocab-v7_06-14-2022.zip)
 
 # Privacy Standard Notice
 This repository contains only non-sensitive, publicly available data and
