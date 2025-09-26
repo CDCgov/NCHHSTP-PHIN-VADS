@@ -1,4 +1,4 @@
-💡 **Tip:** The most efficient way to get MMG Vocabulary is to use the **direct download links below**. Cloning or downloading the entire repo as a ZIP is *not necessary*.  
+> 💡 **Tip:** The most efficient way to get MMG Vocabulary is to use the **direct download links below**. Cloning or downloading the entire repo as a ZIP is *not necessary*.  
 
 # <img src="./images/Logo@0.5x.png" alt="CDC logo" width="60" align="absmiddle">  PHIN VADS Download
 
