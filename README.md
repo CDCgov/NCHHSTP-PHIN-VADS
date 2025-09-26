@@ -9,6 +9,9 @@ Below are the downloads for case notification (MMG) vocabulary files:
 > 📦 [Hepatitis-Case-Notification-MMG-v1_Vocab-v7_03-28-2024.zip](https://github.com/CDCgov/NCHHSTP-PHIN-VADS/raw/master/MMG/Hepatitis-Case-Notification-MMG-v1_Vocab-v7_03-28-2024.zip)  
 > 📦 [STD-Case-Notification-MMG-v1_Vocab-v1_01-31-2025.zip](https://github.com/CDCgov/NCHHSTP-PHIN-VADS/raw/master/MMG/STD-Case-Notification-MMG-v1_Vocab-v1_01-31-2025.zip)  
 > 📦 [Tuberculosis-LTBI-Case-Notification-MMG-v3_Vocab-v7_06-14-2022.zip](https://github.com/CDCgov/NCHHSTP-PHIN-VADS/raw/master/MMG/Tuberculosis-LTBI-Case-Notification-MMG-v3_Vocab-v7_06-14-2022.zip)  
+>
+> [📦 Tuberculosis MMG](../../raw/master/MMG/Tuberculosis-LTBI-Case-Notification-MMG-v3_Vocab-v7_06-14-2022.zip)
+
 
 # Privacy Standard Notice
 This repository contains only non-sensitive, publicly available data and
