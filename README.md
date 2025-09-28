@@ -47,3 +47,19 @@ been advised of the possibility of such loss, however caused and on any theory
 of liability, arising out of or in connection with the possession, use or
 performance of this software.
 
+# SHARE IT Act Compliance
+
+The following markers are to support the implementation of the SHARE IT Act. This section can be updated according to the [CDC Metadata Implementation Guide](https://docs.cdc.gov/docs/ea/codeshare/implementation-guide#readmemd-override-optional-markers).
+
+``` md
+- Department: Health and Human Services (HHS)
+- Agency: Centers for Disease Control and Prevention (CDC)
+- Organization: National Center for HIV, Viral Hepatitis, STD, and Tuberculosis Prevention (NCHHSTP)
+- Contact Name: NCHHSTP Informatics Office
+- Contact Email: [adgapps@cdc.gov](mailto:adgapps@cdc.gov?subject=Share%20IT%20Act%20Inquiry:%20GitHub%20NCHHSTP-PHIN-VADS)
+- Version: 1.0.0
+- Status: Active
+- Keywords: phin mmg vads nchhstp dtbe dstdp dvh congenital-syphilis hepatitis std sti tubercolosis tb
+- Contract#: NA
+- Exemption: NA
+```
