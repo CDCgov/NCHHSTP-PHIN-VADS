@@ -1,4 +1,4 @@
-# <img src="./images/Logo@0.5x.png" alt="CDC logo" width="60" align="absmiddle">  PHIN VADS Download
+# <img src="./images/Logo@0.5x.png" alt="CDC logo" width="3%" height="3%" align="absmiddle">  PHIN VADS Download
 
 > 💡 **Tip:** Use the **direct download links below** to get the MMG Vocabulary zip file. Cloning or downloading the entire repo as a ZIP is *not necessary*.  
 
