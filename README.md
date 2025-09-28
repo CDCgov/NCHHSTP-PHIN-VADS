@@ -56,7 +56,7 @@ The following markers are to support the implementation of the SHARE IT Act. Thi
 - Agency: Centers for Disease Control and Prevention (CDC)
 - Organization: National Center for HIV, Viral Hepatitis, STD, and Tuberculosis Prevention (NCHHSTP)
 - Contact Name: NCHHSTP Informatics Office
-- Contact Email: [adgapps@cdc.gov](mailto:adgapps@cdc.gov?subject=Share%20IT%20Act%20Inquiry:%20GitHub%20NCHHSTP-PHIN-VADS)
+- Contact Email: adgapps@cdc.gov
 - Version: 1.0.0
 - Status: Active
 - Keywords: phin mmg vads nchhstp dtbe dstdp dvh congenital-syphilis hepatitis std sti tubercolosis tb
