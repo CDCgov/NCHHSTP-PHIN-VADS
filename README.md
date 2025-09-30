@@ -7,7 +7,7 @@ This is a temporary location for PHIN VADS content while it undergoes maintenanc
 Below are the downloads for case notification (MMG) vocabulary files:
 
 > 📦 [Generic-Case-Notification-MMG-v2_Vocab-v16_01-08-2021.zip](../../raw/master/MMG/Generic-Case-Notification-MMG-v2_Vocab-v16_01-08-2021.zip)  
-> 📦 [Generic-Case-Notification-MMG-v3.0_Vocab_09-03-2025.xlsx](../../raw/master/MMG/Generic-Case-Notification-MMG-v3.0_Vocab_09-03-2025.xlsx)
+> 📦 [Generic-Case-Notification-MMG-v3.0_Vocab_09-03-2025.zip](../../raw/master/MMG/Generic-Case-Notification-MMG-v3.0_Vocab_09-03-2025.zip)
 
 > 📦 [Hepatitis-Case-Notification-MMG-v1_Vocab-v7_03-28-2024.zip](../../raw/master/MMG/Hepatitis-Case-Notification-MMG-v1_Vocab-v7_03-28-2024.zip)  
 > 📦 [Hepatitis-Case-Notification-MMG-v2_Vocab-v1-draft.zip](../../raw/master/MMG/Hepatitis-Case-Notification-MMG-v2_Vocab-v1-draft.zip)
